@@ -42,6 +42,8 @@
 
 ### Sources
 
+<<<<<<< HEAD
+
 - [Array-Methods](https://www.w3schools.com/js/js_array_methods.asp)
 - [Functions](https://www.w3schools.com/js/js_functions.asp)
 - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
