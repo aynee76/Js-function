@@ -42,8 +42,8 @@
 
 ### Sources
 
-[Array-Methods] (https://www.w3schools.com/js/js_array_methods.asp)
-[Functions] (https://www.w3schools.com/js/js_functions.asp)
-[Functions] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
-[Functions] (https://javascript.info/function-basics)
-[Control-Flow-Statements] (https://www.javascripthelp.org/learn/basics/control-flow-statements/)
+- [Array-Methods](https://www.w3schools.com/js/js_array_methods.asp)
+- [Functions](https://www.w3schools.com/js/js_functions.asp)
+- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
+- [Functions](https://javascript.info/function-basics)
+- [Control-Flow-Statements](https://www.javascripthelp.org/learn/basics/control-flow-statements/)
